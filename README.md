@@ -1,4 +1,4 @@
-# BRANCH 프랙티스
+
+# BRANCH PRACTICE
 
 ## INDEX
-# 브랜치 연습
