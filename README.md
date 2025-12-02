@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# 브랜치 연습
-=======
-# BRANCH PRACTICE
+# BRANCH 프랙티스
 
 ## INDEX
->>>>>>> 1898e20 (docs: Update README.md)
+# 브랜치 연습
